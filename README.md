@@ -9,5 +9,11 @@
 
 ## Executar com code runner (extensão)
 
-* isntalar `npm i -g ts-node`
+* instalar `npm i -g ts-node`
 * executar arquivo com `ctrl + alt + n`
+
+### TsConfig
+
+`https://www.typescriptlang.org/docs/handbook/tsconfig-json.html`
+
+`https://www.typescriptlang.org/docs/handbook/compiler-options.html`
