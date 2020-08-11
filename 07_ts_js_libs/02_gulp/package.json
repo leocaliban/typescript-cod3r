@@ -4,9 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.5.2",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "tsify": "^5.0.0",
+    "typescript": "^3.9.7",
+    "vinyl-source-stream": "^2.0.0"
+  }
 }

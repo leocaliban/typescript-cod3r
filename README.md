@@ -18,6 +18,10 @@
 
 `https://www.typescriptlang.org/docs/handbook/compiler-options.html`
 
-### TypeSearch
+### [TypeSearch](https://microsoft.github.io/TypeSearch/) :globe_with_meridians:
 
-`https://microsoft.github.io/TypeSearch/`
+## Gulp
+
+Dependências
+
+`npm i --save-dev gulp typescript browserify tsify vinyl-source-stream del`
