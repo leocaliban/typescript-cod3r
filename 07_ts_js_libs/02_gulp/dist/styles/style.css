@@ -1,0 +1,16 @@
+.background {
+    background-color: #043333;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    color: #fff222;
+    text-align: center;
+}
+
+.item {
+    color: #fff222;
+    text-align: left;
+    padding-left: 20px;
+}
