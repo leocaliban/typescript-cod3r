@@ -32,4 +32,4 @@ Dependências
 
 Dependências
 
-`npm i -D webpack webpack-cli typescript ts-loader jquery @types/jquery`
+`npm i -D webpack webpack-cli webpack-dev-server copy-webpack-plugin typescript ts-loader jquery @types/jquery`
