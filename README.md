@@ -33,3 +33,10 @@ Dependências
 Dependências
 
 `npm i -D webpack webpack-cli webpack-dev-server copy-webpack-plugin typescript ts-loader jquery @types/jquery`
+
+### Links
+
+#### :globe_with_meridians: [Webpack + TypeScript setup](https://webpack.js.org/guides/typescript/)
+
+
+#### :globe_with_meridians: [Integrating with Build Tools](https://www.typescriptlang.org/docs/handbook/integrating-with-build-tools.html#webpack)
