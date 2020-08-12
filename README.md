@@ -27,3 +27,9 @@
 Dependências
 
 `npm i --save-dev gulp typescript browserify tsify vinyl-source-stream del gulp-uglify gulp-rename`
+
+## Webpack
+
+Dependências
+
+`npm i -D webpack webpack-cli typescript ts-loader jquery @types/jquery`
