@@ -40,3 +40,9 @@ Dependências
 
 
 #### :globe_with_meridians: [Integrating with Build Tools](https://www.typescriptlang.org/docs/handbook/integrating-with-build-tools.html#webpack)
+
+## React
+
+Criação do projeto
+
+`npx create-react-app ts-react --typescript`
