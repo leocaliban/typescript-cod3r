@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CountValue from './CountValue';
+import logRender from '../decorators/logRender';
 
 interface ConterProps {
     initialValue?: number;
@@ -9,6 +10,7 @@ interface CounterState {
     value: number;
 }
 
+@logRender
 export default class Counter extends Component<ConterProps, CounterState> {
 
     public state = { value: this.props.initialValue || 0 };
