@@ -46,3 +46,7 @@ Dependências
 Criação do projeto
 
 `npx create-react-app ts-react --typescript`
+
+### Links
+
+#### :globe_with_meridians: [Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)
